@@ -5,7 +5,7 @@ baseurl: ""
 
 footer_only_homepage: true
 footer_url: "https://pysanyna.com"
-footer_text: "Дякую!"
+footer_text: "©pysanyna.com"
 
 favicon_location: assets/favicon.ico
 
